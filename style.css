@@ -1,0 +1,391 @@
+.dashboard{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+
+}
+#logo{
+    margin-left: 25px;
+    height: 158px;
+    width: 176px;
+    position: relative;
+    bottom: 10px;
+}
+.dashboardd{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.icons{
+    margin-right: 20px;
+    max-width: 100pc;
+    margin-left: 20px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: solid black;
+    font-weight: 400;
+    font-family: 'Poppins';
+font-style: normal;
+background-color: rgb(251, 253, 255);
+
+}
+
+.dashboard{
+
+    display: flex;
+    align-items: center;
+    
+  
+}
+.dashboardd{
+    
+    position: relative;
+    margin-left: 56px;
+
+}
+
+#home{
+position: absolute;
+top: 15px;
+right: 99.7%;
+}
+
+#text1{
+    color: #FF961F;
+}
+.fullcontainer{
+    position: relative;
+display: grid;
+
+}
+
+.secondcontainer{
+
+    position: absolute;
+left: 300px;
+top: 27px;
+}
+
+.search{
+    border-radius: 200px;
+    width: 218px;
+    background-color: rgb(231, 228, 228);
+    text-decoration: rgb(197, 191, 191);
+    border: 0px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-family: 'Poppins';
+    background-image: url(Search-1.png );
+    background-repeat: no-repeat;
+    
+    text-indent: 30px;
+}
+.search:active{
+    background-image: none;
+}
+
+.fullcontainer{
+    
+    position: relative;
+}
+.noti{
+    position: absolute;
+    bottom:610px ;
+    left: 773px;
+
+}
+
+.hustle{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 26px;
+}
+.bsns{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.hstl{
+    margin-left: 10px;
+    
+}
+
+.sidehustle{
+    
+ 
+    margin-top: 80px;
+    border-radius: 15px;
+    width: 330px;
+    height: 340px;
+    display: grid;
+    justify-content: center;
+    
+}
+.shrow1{
+    display:block;
+    
+    text-align: center;
+    margin-right: 75px;
+
+    padding-bottom: 1px;
+
+}
+
+ #shicon{
+    margin-left: 100px;
+ }
+#dots{
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.shrow1{
+    position: relative;
+
+}
+#dots{
+    position: absolute;
+    bottom: 10x;
+
+}
+
+.shrow1{
+    position: relative;
+}
+#shrow2{
+    position: absolute;
+    top: 80px;
+    left: 93px;
+    margin-bottom: 0px;
+    line-height: 4px;
+}
+.shrow3{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin-top: -40px;
+    line-height: 5px;
+}
+#email{
+    margin-right: 100px;
+    line-height: 1px;
+}
+#hstltch1{
+    color: solid black;
+    font-weight: bolder;
+
+}
+#lag{
+    margin-left: 20px;
+}
+#strid{
+margin-left: -12px;
+}
+.hash{
+    color: rgb(184, 178, 178);
+    margin-left: -13px;
+}
+.insta{
+    display:block;
+    
+    text-align: center;
+    
+    border-radius: 20px;
+    width: 130px;
+    margin-top: 10px;
+    height: 115px;
+    line-height: 2px;
+    color : rgb(170, 169, 169); 
+    box-shadow: grey 3px 3px 3px 2px;
+    background-color: white;
+}
+.insta>img{
+    margin-top: 25px;
+}
+
+.twitr{
+    display:block;
+    
+    text-align: center;
+
+    border-radius: 20px;
+    width: 130px;
+    margin-top: 10px;
+    height: 115px;
+    line-height: 2px;
+    color : rgb(170, 169, 169); 
+    margin-left: 57px;
+    box-shadow: grey 3px 3px 3px 2px;
+    background-color: white;
+}
+.twitr>img{
+    margin-top: 25px;
+}
+
+.shrow4{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.vector{
+    background-color: rgb(102, 102, 190);
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    width: 80px;
+    color: antiquewhite;
+    height: 25px;
+    line-height: 1px;
+    border-radius: 20px;
+    margin-left: 657px;
+    position: relative
+}
+.vector>img{
+    position: absolute;
+    left: 6px ;
+    top: 2px;
+    
+}
+.vector>p{
+    margin-left: 32px;
+    margin-top:11px;
+    font-size: 14px;
+}
+.secondcontainer{
+    margin-left: 30px;
+ 
+    
+}
+.thirdcontainer{
+    
+    width: 470px;
+    height: 480px;
+    border-radius: 20px;
+    margin-left: 90px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    background-color: white;
+}
+.fullcontainer{
+    position: relative;
+}
+.thirdcontainer{
+    position: absolute;
+left: 750px;
+top: 240px;
+box-shadow: grey 3px 3px 2px 2px;
+color: rgb(228, 228, 228);
+    
+}
+
+
+
+.thirdheader1{
+    margin-right: 45px;
+    margin-left: 30px;
+    font-size: 22px;
+    font-weight: bolder;
+color: black;
+}
+.thirdheader2{
+    margin-right: 25px;
+    margin-left: 10px;
+    font-size: 22px;
+    font-weight: bolder;
+    color: black;
+}
+.thirdheader3{
+    margin-right: 0px;
+    margin-left: 10px;
+    font-size: 22px;
+    font-weight: bolder;
+    color: black;
+}
+
+#underline{
+     margin-top: 50px;
+     margin-left: -420px;
+}
+
+input,label{
+    display: block;
+    border-radius: 10px;
+    height: 30px;
+    width: 150px;
+}
+#first{
+    margin-left: -75px;
+    margin-top: 100px;
+    text-align: left;
+}
+#last{
+    margin-top: -65px;
+    margin-left: 240px;
+}
+#mailcity{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin-top: 220px;
+    margin-left: -400px;
+    text-align: left;
+}
+#citty{
+    margin-left: 90px;
+}
+#numb{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin-top: 320px;
+    margin-left: -412px;
+    text-align: left;
+}
+#storeid{
+    margin-left: 90px;
+}
+.lastt{
+    margin-top: 400px;
+
+}
+#savee{
+    margin-left: -400px;
+    background-color: rgb(102, 102, 190);
+    width: 150px;
+    height: 55px;
+    border-radius: 15px;
+    color: white;
+    box-shadow: grey 2px 2px 3px;
+}
+#cancel{
+    margin-left: 75px;
+    background-color:white;
+    width: 150px;
+    height: 55px;
+    border-radius: 15px;
+    color: rgb(175, 167, 167);
+    box-shadow: grey 2px 2px 3px;
+}
+.sidehustle{
+    box-shadow: grey 3px 3px 3px  1px ;
+    background-color: white;
+}
+.dashboardd{
+    background-color: white;
+    width: 194px;
+}
+.dashboard{
+    background-color: white;
+    width: 250px;
+}
+.uventorylogo{
+    background-color: white;
+    width: 250px;
+}
+.dashome{
+    background-color: white;
+    
+}
